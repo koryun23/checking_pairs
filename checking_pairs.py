@@ -1,5 +1,5 @@
 def func(arr, n):
-    # We have an input as an array containing integers, and also a number. 
+    # As an input we have an array containing integers, and also a number. 
     #The task is to check whether there is a pair of numbers in the array that sums up to the given number.
     # If there is a pair that sums up to the given number, then the output should be True, and if not, the output should be False.
     # Here are two ways of solving the puzzle with the time complexity of O(n).
